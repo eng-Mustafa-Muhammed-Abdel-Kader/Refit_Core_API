@@ -1,0 +1,68 @@
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.Views.dll
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.Views.pdb
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.TagHelpers.input.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.TagHelpers.output.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorCoreGenerate.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.Views.pdb
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CopyComplete
+C:\Users\Mustafa Muhammed\Desktop\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.Views.dll
+E:\desktopData\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.Views.pdb
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.TagHelpers.input.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.TagHelpers.output.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorCoreGenerate.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cs
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.Views.pdb
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.genruntimeconfig.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CopyComplete
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.Properties.Resources.resources
+E:\desktopData\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.GenerateResource.cache
